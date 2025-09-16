@@ -1,0 +1,61 @@
+{
+    "attractions": [
+        {
+            "name": "The Grand Fort",
+            "emoji": "\ud83c\udff0",
+            "image": "fort.jpg"
+        },
+        {
+            "name": "Blue Lagoon Beach",
+            "emoji": "\ud83c\udf0a",
+            "image": "beach.jpg"
+        },
+        {
+            "name": "Mountain View Point",
+            "emoji": "\u26f0\ufe0f",
+            "image": "mountain.jpg"
+        },
+        {
+            "name": "New Museum",
+            "emoji": "🏛️",
+            "image": "museum.jpg"
+        }
+    ],
+    "hotels": [
+        {
+            "name": "Hotel Paradise - 5\u2b50",
+            "image": "hotel1.jpg"
+        },
+        {
+            "name": "Sunset Inn - 4\u2b50",
+            "image": "hotel2.jpg"
+        },
+        {
+            "name": "Budget Stay - 3\u2b50",
+            "image": "hotel3.jpg"
+        },
+        {
+            "name": "Luxury Stay - 5⭐",
+            "image": "luxury.jpg"
+        }
+    ],
+    "foods": [
+        {
+            "name": "Traditional Curry \ud83c\udf72",
+            "image": "curry.jpg"
+        },
+        {
+            "name": "Street Kebabs \ud83c\udf62",
+            "image": "kebab.jpg"
+        },
+        {
+            "name": "Local Desserts \ud83c\udf70",
+            "image": "dessert.jpg"
+        },
+        {
+            "name": "Spicy Noodles 🍜",
+            "image": "noodles.jpg"
+        }
+    ]
+}
+
