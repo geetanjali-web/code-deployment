@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2>Search Results for "{{ query }}"</h2>
+  {% if results %}
+    <div class="row">
+      {% for item in results %}
+      <div class="col-md-4">
+        <div class="card mb-3">
+          <img src="{{ url_for('static', filename=item.image) }}" class="card-img-top" alt="{{ item.name }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ item.name }}</h5>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p>No results found.</p>
+  {% endif %}
+{% endblock %}
