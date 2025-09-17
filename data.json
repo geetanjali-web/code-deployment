@@ -55,6 +55,10 @@
         {
             "name": "Spicy Noodles 🍜",
             "image": "noodles.jpg"
+        },
+        {
+            "name": "Spicy chowmin 🍜",
+            "image": "noodles.jpg"
         }
     ]
 }
