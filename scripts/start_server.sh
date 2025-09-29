@@ -5,3 +5,4 @@ echo "Starting Flask tourism app..."
 pkill -f "python3 app.py"
 # Start in background
 nohup python3 app.py > app.log 2>&1 &
+
