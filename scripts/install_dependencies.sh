@@ -2,3 +2,4 @@
 cd /home/ec2-user/tourism_app
 echo "Installing Python dependencies..."
 pip3 install -r requirements.txt
+
