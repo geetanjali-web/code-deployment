@@ -28,4 +28,4 @@ artifacts:
   files:
     - 'build/**/*'
     - 'appspec.yml'
-    - 'script/**/*'
+    - 'scripts/**/*'
